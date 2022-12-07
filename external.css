@@ -1,0 +1,15 @@
+.h1{
+    color: rgb(245, 246, 247);
+    background-color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
